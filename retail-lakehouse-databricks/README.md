@@ -46,3 +46,7 @@ Bronze -> Silver -> Gold -> Analytics Marts
 - Incremental loading with MERGE
 - SCD Type 2
 - Dashboard integration
+
+- ## Architecture Overview
+
+![Retail Lakehouse](docs/retail_lakehouse.png)
